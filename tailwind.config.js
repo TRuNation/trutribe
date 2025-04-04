@@ -1,1 +1,0 @@
-// Tailwind config (TRuFont integration ready)
